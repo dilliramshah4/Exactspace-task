@@ -49,7 +49,7 @@ http://localhost:5000
 
 #  Example Websites
 ```sh
-docker run -p 5000:5000 -e SCRAPE_URL="https://en.wikipedia.org/wiki/DevOps)" web-scraper
+docker run -p 5000:5000 -e SCRAPE_URL="https://en.wikipedia.org/wiki/DevOps" web-scraper
 ```
 # Access Data
 
